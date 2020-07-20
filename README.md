@@ -7,3 +7,5 @@ The notebook was built in kaggle and the dataset is also available with the same
 There are two versions:
 1. Simple version with adam
 2. With different optimizers
+#Digit Recognizer
+  Kaggle competition notebook which achieved 99.23% accuracy on test data
